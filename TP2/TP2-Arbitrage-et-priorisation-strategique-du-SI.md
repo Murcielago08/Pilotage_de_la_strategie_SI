@@ -29,6 +29,7 @@ Pour assurer une décision objective et "défendable" devant la direction, chaqu
 
 ---
 
+
 ## 3. Argumentaire Stratégique (Justification des choix)
 
 ### Pourquoi la Sécurité et le Réseau d'abord ? (Projets 1 & 2)
