@@ -1,7 +1,7 @@
 # Note de Cadrage et Arbitrage Budgétaire
 
-**Auteur :** RSI (Direction des Systèmes d'Information)  
-**Destinataire :** Comité de Direction (COMEX)  
+**Auteur :** RSI (Direction des Systèmes d'Information)
+**Destinataire :** Comité de Direction (COMEX)
 **Objet :** Plan de transformation SI 2026 - Arbitrages et priorisations
 
 ---
