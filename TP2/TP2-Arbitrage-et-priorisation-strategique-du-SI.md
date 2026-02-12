@@ -10,7 +10,7 @@
 
 Pour assurer une décision objective et "défendable" devant la direction, chaque projet a été évalué sur une échelle de 1 à 5 selon quatre critères :
 
-- **Alignement Stratégique** : Contribution directe à la croissance et aux objectifs business.
+- **Alignement Stratégique** : Contribution directe à la croissance et aux objectifs business. 
 - **Urgence / Risque** : Impact d'un non-faire (pannes, sécurité, conformité).
 - **Valeur Métier (ROI)** : Gains de productivité ou amélioration de l'expérience client.
 - **Faisabilité** : Complexité technique et disponibilité de notre équipe restreinte.
